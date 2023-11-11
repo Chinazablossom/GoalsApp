@@ -2,55 +2,5 @@
     <string name="app_name">GoalsApp</string>
 
     <string name="dueDt">Due date: %s</string>
-    <string name="goal1">Achieve Financial Independence</string>
-    <string name="goal2">Travel to At Least 10 Different Countries</string>
-    <string name="goal3">Obtain a College Degree</string>
-    <string name="goal4">Start a Family</string>
-    <string name="goal5">Buy a Home</string>
-    <string name="goal6">Learn a New Language</string>
-    <string name="goal7">Advance in My Career</string>
-    <string name="goal8">Improve Physical Fitness</string>
-    <string name="goal9">Volunteer for a Charitable Cause</string>
-    <string name="goal10">Write a Book</string>
-    <string name="goal11">Establish a Successful Business</string>
-    <string name="goal12">Develop Strong Interpersonal Relationships</string>
-    <string name="goal13">Attain Mental and Emotional Wellness</string>
-    <string name="goal14">Learn a Musical Instrument</string>
-    <string name="goal15">Master a New Skill or Hobby</string>
-    <string name="goal16">Explore a New Career Path</string>
-    <string name="goal17">Save for Retirement</string>
-    <string name="goal18">Achieve a Healthy Work-Life Balance</string>
-    <string name="goal19">Complete a Marathon or Physical Challenge</string>
-    <string name="goal20">Give Back to the Community</string>
-
-
-    <string name="des1">My ultimate goal is to become financially independent. I want to be in control of my finances, so I can make choices that align with my dreams and aspirations. This means learning about investing, creating multiple streams of income, and being smart with my money. I dream of a life where I can afford to travel, buy a home, and live comfortably without the constant worry of financial constraints.</string>
-    <string name="des2">Traveling is not just a hobby for me, it\'s a passion. I\'ve got a list of countries I\'m eager to explore, from the vibrant streets of Tokyo to the serene landscapes of New Zealand. I want to immerse myself in the rich tapestry of cultures, taste exotic cuisines, and witness breathtaking landscapes. These experiences will shape my perspective and create lasting memories.</string>
-    <string name="des3">College has been a transformative journey for me. I\'m pursuing a degree in Computer Science because I\'m deeply passionate about it. My goal is not just to complete my degree but to excel in it, to push my intellectual boundaries and contribute to my chosen field. I\'m excited about the opportunities this education will bring and the positive impact I can make.</string>
-    <string name="des4">While I\'m in no rush, I hope to find a loving kind hearted partner and start a family someday. I look forward to finding a partner who shares my dreams and values. The idea of raising children in a christian home, building a loving home, and watching them grow is a vision that fills my heart with warmth, I want to build a loving and supportive family environment for my future children.</string>
-    <string name="des5">Owning a home is a big dream of mine. I imagine a cozy place that I can decorate to my heart\'s content, a sanctuary that reflects my personality and offers a sense of security. I\'m determined to save, invest wisely, and eventually make this dream a reality.</string>
-    <string name="des6">Learning a new language is like opening a door to a whole new world. Right now, I\'m learning Spanish because I\'m drawn to its beauty and the idea of connecting with more people across the globe. My goal is not just to converse but to be fluent, immersing myself in Spanish-speaking cultures.</string>
-    <string name="des7">I\'m passionate about my career. My ambition is to climb the corporate ladder, not just for the sake of titles but to make a meaningful impact. I see myself in a leadership role by my late twenties, inspiring and guiding others in my field.</string>
-    <string name="des8">Staying healthy and fit is a commitment I\'ve made to myself. I love feeling strong and energized. My goal is to maintain a regular fitness routine, eat well, and keep challenging myself with new fitness goals, whether it\'s running a marathon or mastering a yoga pose.</string>
-    <string name="des9">Giving back to the community is close to my heart. I\'m currently volunteering with a local charity, and I\'m passionate about continuing my involvement. There\'s something incredibly fulfilling about contributing to a cause I deeply care about.</string>
-    <string name="des10">Writing has always been a creative outlet for me, and I have a story to tell. I\'ve already started working on a novel, and my goal is to complete and publish it within the next few years. I want to share my words and thoughts with the world.</string>
-    <string name="des11">Entrepreneurship is in my blood. I\'ve got big dreams of starting and growing a successful business in a field I\'m truly passionate about. The idea of creating something from scratch and seeing it flourish excites me beyond measure.</string>
-    <string name="des12">I value my friendships and family bonds immensely. I aim to invest time in nurturing and deepening these relationships. Creating strong connections with the people I love is an essential part of my life journey.</string>
-    <string name="des13">Mental health is just as important as physical health. I\'m committed to seeking therapy, practicing mindfulness, and learning to manage stress and emotions. My goal is to achieve emotional well-being and become more resilient.</string>
-    <string name="des14">Music is a source of joy for me. I\'ve always wanted to learn how to play a violin. My goal is to become proficient at it over the next few years, to express myself through melodies and rhythms.</string>
-    <string name="des15">I\'m excited about the idea of mastering a new skill or hobby. Whether it\'s painting, cooking, or even coding, I believe in the joy of continuous learning and self-expression. The process of growth and self-discovery is what makes life vibrant.</string>
-    <string name="des16">While I\'m dedicated to my current career, I\'m open to the possibility of discovering a new passion. My goal is to gain the skills and experience needed for a potential transition. Life is a journey, and I\'m ready to embrace the unexpected.</string>
-    <string name="des17">Retirement may seem distant, but it\'s important to me to be financially secure in my later years. I\'ll be setting aside money in retirement accounts and investments to ensure a comfortable and fulfilling retirement.</string>
-    <string name="des18">Striking a balance between work and personal life is a priority for me because i\'m big on family. I want to prioritize self-care, spend quality time with loved ones, and explore the world while building a successful career.</string>
-    <string name="des19">Challenging myself physically is something I\'m passionate about. I\'ve set a goal to complete a marathon in the next few years, pushing my physical limits and experiencing the satisfaction of achieving such a feat.</string>
-    <string name="des20">Making a positive impact in my community is a responsibility I take to heart. I\'m committed to continuing my volunteer work, mentoring others, and supporting local initiatives that create a better world.</string>
-
-
-
-
-
-
-
-
 
 </resources>
