@@ -37,7 +37,7 @@ class EditFragment : Fragment() {
             doneTxt.setOnClickListener {
                 val newGoal = Data(
                     goalNameIdEditText.text.toString(),
-                    goalNameIdEditText.text.toString(),
+                    descriptionIdEditText.text.toString(),
                     dueDateIdEditText.text.toString(),
                     Random.nextInt(21, 9999)
                 )
